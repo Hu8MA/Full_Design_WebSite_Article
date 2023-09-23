@@ -16,8 +16,8 @@ Hello there! I'm thrilled to welcome you to my personal website, a digital canva
 
 ## Explore My Website
 
-- [Portfolio]([link_to_portfolio](https://github.com/Hu8MA?tab=repositories)): Browse my latest projects and software architecture designs.
-- [Blog]([link_to_blog](https://www.linkedin.com/in/hussein16mahdi)): Discover articles on web development, algorithms, and more on linkedin.
+- [Portfolio](link_to_portfolio](https://github.com/Hu8MA?tab=repositories): Browse my latest projects and software architecture designs.
+- [Blog](link_to_blog](https://www.linkedin.com/in/hussein16mahdi): Discover articles on web development, algorithms, and more on linkedin.
 
 
 ## Feedback and Contact
