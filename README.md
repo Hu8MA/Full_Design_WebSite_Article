@@ -16,9 +16,9 @@ Hello there! I'm thrilled to welcome you to my personal website, a digital canva
 
 ## Explore My Website
 
-- [Portfolio](link_to_portfolio): Browse my latest projects and software architecture designs.
-- [Blog](link_to_blog): Discover articles on web development, algorithms, and more.
-- [About Me](link_to_about): Learn more about who I am and my skills as a software engineer and architect.
+- [Portfolio]([link_to_portfolio](https://github.com/Hu8MA?tab=repositories)): Browse my latest projects and software architecture designs.
+- [Blog]([link_to_blog](https://www.linkedin.com/in/hussein16mahdi)): Discover articles on web development, algorithms, and more on linkedin.
+
 
 ## Feedback and Contact
 
@@ -26,7 +26,7 @@ I'd love to hear your thoughts on my website. Whether it's feedback, suggestions
 
 ## Get Started
 
-To get started, visit my [website](link_to_website) and dive into a world of software engineering insights and tips.
+To get started, visit my [website] and dive into a world of software engineering insights and tips.
 
 Explore, enjoy, and stay inspired!
 
