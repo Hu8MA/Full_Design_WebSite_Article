@@ -25,10 +25,9 @@ I'd love to hear your thoughts on my website. Whether it's feedback, suggestions
 
 ## Get Started
 
-To get started, visit my [website](link_to_website) and dive into a world of software engineering insights and tips.
-
+ 
 Explore, enjoy, and stay inspired!
 
 Warm regards,
 
-[Your Name]
+Hussein Mahdi
