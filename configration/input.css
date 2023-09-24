@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title {
+    @apply text-3xl md:text-4xl font-bold leading-snug;
+}
+.link{
+    @apply text-lg text-color-white font-sans hover:text-color-forth hover:underline duration-300 ease-in-out
+}
+.title2{
+    @apply   text-3xl md:text-4xl  text-center font-bold leading-snug text-color-white hover:text-color-secondary transition-all duration-300 ease-in-out 
+}

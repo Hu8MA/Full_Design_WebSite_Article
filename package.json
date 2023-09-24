@@ -1,0 +1,17 @@
+{
+  "name": "configration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./configration/input.css -o ./src/css/style.css",
+    "watch": "npx tailwindcss -i ./configration/input.css -o ./src/css/style.css --watch"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
